@@ -34,4 +34,3 @@ def merge_lists(list_1, list_2) -> list:
 
 
 list_3 = merge_lists(list_1, list_2)
-print(list_3)
